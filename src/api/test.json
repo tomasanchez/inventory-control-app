@@ -1,0 +1,2155 @@
+{
+  "keywords": "Samsung Galaxy S8",
+  "domain_id": "MLA-CELLPHONES",
+  "paging": {
+    "total": 6,
+    "limit": 10,
+    "offset": 0
+  },
+  "results": [
+    {
+      "id": "MLA16240160",
+      "status": "active",
+      "domain_id": "MLA-CELLPHONES",
+      "settings": {
+        "listing_strategy": "catalog_required"
+      },
+      "name": "Samsung Galaxy S8 64 GB rosa 4 GB RAM",
+      "main_features": [],
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "206",
+          "value_name": "Samsung"
+        },
+        {
+          "id": "LINE",
+          "name": "Línea",
+          "value_id": "249991",
+          "value_name": "Galaxy S"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": "8030",
+          "value_name": "S8"
+        },
+        {
+          "id": "IS_DUAL_SIM",
+          "name": "Es Dual SIM",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_id": "51994",
+          "value_name": "Rosa"
+        },
+        {
+          "id": "INTERNAL_MEMORY",
+          "name": "Memoria interna",
+          "value_id": "59726",
+          "value_name": "64 GB"
+        },
+        {
+          "id": "RAM",
+          "name": "Memoria RAM",
+          "value_id": "98852",
+          "value_name": "4 GB"
+        },
+        {
+          "id": "MAIN_COLOR",
+          "name": "Color principal",
+          "value_id": "2450312",
+          "value_name": "Rosa"
+        },
+        {
+          "id": "OPERATING_SYSTEM_NAME",
+          "name": "Nombre del sistema operativo",
+          "value_id": "7403813",
+          "value_name": "Android"
+        },
+        {
+          "id": "OS_ORIGINAL_VERSION",
+          "name": "Versión original del sistema operativo",
+          "value_id": "7206955",
+          "value_name": "7.0 Nougat"
+        },
+        {
+          "id": "OS_LAST_COMPATIBLE_VERSION",
+          "name": "Última versión compatible del sistema operativo",
+          "value_id": "9123308",
+          "value_name": "10"
+        },
+        {
+          "id": "DISPLAY_SIZE",
+          "name": "Tamaño de la pantalla",
+          "value_id": "6927988",
+          "value_name": "5.8 \""
+        },
+        {
+          "id": "DISPLAY_RESOLUTION",
+          "name": "Resolución de la pantalla",
+          "value_id": "7222492",
+          "value_name": "1440 px x 2960 px"
+        },
+        {
+          "id": "MAIN_REAR_CAMERA_RESOLUTION",
+          "name": "Resolución de la cámara trasera principal",
+          "value_id": "7199628",
+          "value_name": "12 Mpx"
+        },
+        {
+          "id": "REAR_CAMERA_RECORDING_RESOLUTION",
+          "name": "Resolución de video de la cámara trasera",
+          "value_id": "7199630",
+          "value_name": "3840 px x 2160 px"
+        },
+        {
+          "id": "MAIN_FRONT_CAMERA_RESOLUTION",
+          "name": "Resolución de la cámara frontal principal",
+          "value_id": "7207052",
+          "value_name": "8 Mpx"
+        },
+        {
+          "id": "BATTERY_CAPACITY",
+          "name": "Capacidad de la batería",
+          "value_id": "98435",
+          "value_name": "3000 mAh"
+        },
+        {
+          "id": "WITH_FINGERPRINT_READER",
+          "name": "Con lector de huella digital",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "CHARACTERISTICS_LABEL",
+          "name": "Etiqueta de características",
+          "value_id": "10252558",
+          "value_name": "886007-MLU45341663251_032021"
+        },
+        {
+          "id": "SIM_CARD_SLOTS_NUMBER",
+          "name": "Cantidad de ranuras para tarjeta SIM",
+          "value_id": "2087812",
+          "value_name": "1"
+        },
+        {
+          "id": "COMPATIBLE_SIM_CARD_SIZES",
+          "name": "Tamaños de tarjeta SIM compatibles",
+          "value_id": "80453",
+          "value_name": "Nano-SIM"
+        },
+        {
+          "id": "WITH_ESIM",
+          "name": "Con eSIM",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "OS_PERSONALIZATION_LAST_COMPATIBLE_SHELL",
+          "name": "Última capa compatible de personalización del sistema operativo",
+          "value_id": "11091675",
+          "value_name": "One UI 2.0"
+        },
+        {
+          "id": "WEIGHT",
+          "name": "Peso",
+          "value_id": "6845",
+          "value_name": "155 g"
+        },
+        {
+          "id": "HEIGHT",
+          "name": "Altura",
+          "value_id": "6954305",
+          "value_name": "148.9 mm"
+        },
+        {
+          "id": "WIDTH",
+          "name": "Ancho",
+          "value_id": "6954310",
+          "value_name": "68.1 mm"
+        },
+        {
+          "id": "DEPTH",
+          "name": "Profundidad",
+          "value_id": "4604272",
+          "value_name": "8 mm"
+        },
+        {
+          "id": "DISPLAY_TECHNOLOGY",
+          "name": "Tecnología de la pantalla",
+          "value_id": "80493",
+          "value_name": "Super AMOLED"
+        },
+        {
+          "id": "DISPLAY_PIXELS_PER_INCH",
+          "name": "Píxeles por pulgada de la pantalla",
+          "value_id": "7075863",
+          "value_name": "570 ppi"
+        },
+        {
+          "id": "WITH_TOUCHSCREEN_DISPLAY",
+          "name": "Con pantalla táctil",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_PHYSICAL_QWERTY_KEYBOARD",
+          "name": "Con teclado QWERTY físico",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "WITH_CAMERA",
+          "name": "Con cámara",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "REAR_CAMERAS_NUMBER",
+          "name": "Cantidad de cámaras traseras",
+          "value_id": "7477198",
+          "value_name": "1"
+        },
+        {
+          "id": "REAR_CAMERA_APERTURE",
+          "name": "Apertura del diafragma de la cámara trasera",
+          "value_id": "7444371",
+          "value_name": "f 1.7"
+        },
+        {
+          "id": "FRONT_CAMERAS_NUMBER",
+          "name": "Cantidad de cámaras frontales",
+          "value_id": "7477216",
+          "value_name": "1"
+        },
+        {
+          "id": "FRONT_CAMERA_RECORDING_RESOLUTION",
+          "name": "Resolución de video de la cámara frontal",
+          "value_id": "7222493",
+          "value_name": "2560 px x 1440 px"
+        },
+        {
+          "id": "WITH_FRONT_CAMERA_FLASH",
+          "name": "Con flash en la cámara frontal",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "MOBILE_NETWORK",
+          "name": "Red",
+          "value_id": "367876",
+          "value_name": "4G/LTE"
+        },
+        {
+          "id": "MEMORY_CARD_TYPES",
+          "name": "Tipos de tarjeta de memoria",
+          "value_id": "7199655",
+          "value_name": "MicroSD"
+        },
+        {
+          "id": "MEMORY_CARD_MAX_CAPACITY",
+          "name": "Capacidad máxima de la tarjeta de memoria",
+          "value_id": "6901713",
+          "value_name": "512 GB"
+        },
+        {
+          "id": "PROCESSOR_CORES_NUMBER",
+          "name": "Cantidad de núcleos del procesador",
+          "value_id": "7206961",
+          "value_name": "8"
+        },
+        {
+          "id": "WITH_USB_CONNECTOR",
+          "name": "Con conector USB",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_WIFI",
+          "name": "Con Wi-Fi",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_GPS",
+          "name": "Con GPS",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_BLUETOOTH",
+          "name": "Con Bluetooth",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_MINI_HDMI",
+          "name": "Con mini HDMI",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "WITH_RADIO",
+          "name": "Con radio",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "WITH_TV_TUNER",
+          "name": "Con sintonizador de TV",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "WITH_ACCELEROMETER",
+          "name": "Con acelerómetro",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_PROXIMITY_SENSOR",
+          "name": "Con sensor de proximidad",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_GYROSCOPE",
+          "name": "Con giroscopio",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "IS_WATERPROOF",
+          "name": "Es a prueba de agua",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "BATTERY_TYPE",
+          "name": "Tipo de batería",
+          "value_id": "95013",
+          "value_name": "Ion de litio"
+        },
+        {
+          "id": "WITH_REMOVABLE_BATTERY",
+          "name": "Con batería removible",
+          "value_id": "242084",
+          "value_name": "No"
+        }
+      ],
+      "pictures": [
+        {
+          "id": "839840-MLA44098967985_112020",
+          "url": "https://mla-s2-p.mlstatic.com/839840-MLA44098967985_112020-F.jpg"
+        },
+        {
+          "id": "691918-MLA44099561087_112020",
+          "url": "https://mla-s2-p.mlstatic.com/691918-MLA44099561087_112020-F.jpg"
+        },
+        {
+          "id": "740790-MLA44098967958_112020",
+          "url": "https://mla-s1-p.mlstatic.com/740790-MLA44098967958_112020-F.jpg"
+        },
+        {
+          "id": "821696-MLA44098967963_112020",
+          "url": "https://mla-s2-p.mlstatic.com/821696-MLA44098967963_112020-F.jpg"
+        },
+        {
+          "id": "626553-MLA44098967962_112020",
+          "url": "https://mla-s2-p.mlstatic.com/626553-MLA44098967962_112020-F.jpg"
+        }
+      ],
+      "parent_id": "MLA6408697",
+      "children_ids": []
+    },
+    {
+      "id": "MLA6408698",
+      "status": "active",
+      "domain_id": "MLA-CELLPHONES",
+      "settings": {
+        "listing_strategy": "catalog_required"
+      },
+      "name": "Samsung Galaxy S8 64 GB negro medianoche 4 GB RAM",
+      "main_features": [],
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "206",
+          "value_name": "Samsung"
+        },
+        {
+          "id": "LINE",
+          "name": "Línea",
+          "value_id": "249991",
+          "value_name": "Galaxy S"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": "8030",
+          "value_name": "S8"
+        },
+        {
+          "id": "IS_DUAL_SIM",
+          "name": "Es Dual SIM",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_id": "4294407",
+          "value_name": "Negro medianoche"
+        },
+        {
+          "id": "INTERNAL_MEMORY",
+          "name": "Memoria interna",
+          "value_id": "59726",
+          "value_name": "64 GB"
+        },
+        {
+          "id": "RAM",
+          "name": "Memoria RAM",
+          "value_id": "98852",
+          "value_name": "4 GB"
+        },
+        {
+          "id": "MAIN_COLOR",
+          "name": "Color principal",
+          "value_id": "2450295",
+          "value_name": "Negro"
+        },
+        {
+          "id": "OPERATING_SYSTEM_NAME",
+          "name": "Nombre del sistema operativo",
+          "value_id": "7403813",
+          "value_name": "Android"
+        },
+        {
+          "id": "OS_ORIGINAL_VERSION",
+          "name": "Versión original del sistema operativo",
+          "value_id": "7206955",
+          "value_name": "7.0 Nougat"
+        },
+        {
+          "id": "OS_LAST_COMPATIBLE_VERSION",
+          "name": "Última versión compatible del sistema operativo",
+          "value_id": "9123308",
+          "value_name": "10"
+        },
+        {
+          "id": "DISPLAY_SIZE",
+          "name": "Tamaño de la pantalla",
+          "value_id": "6927988",
+          "value_name": "5.8 \""
+        },
+        {
+          "id": "DISPLAY_RESOLUTION",
+          "name": "Resolución de la pantalla",
+          "value_id": "7222492",
+          "value_name": "1440 px x 2960 px"
+        },
+        {
+          "id": "MAIN_REAR_CAMERA_RESOLUTION",
+          "name": "Resolución de la cámara trasera principal",
+          "value_id": "7199628",
+          "value_name": "12 Mpx"
+        },
+        {
+          "id": "REAR_CAMERA_RECORDING_RESOLUTION",
+          "name": "Resolución de video de la cámara trasera",
+          "value_id": "7199630",
+          "value_name": "3840 px x 2160 px"
+        },
+        {
+          "id": "MAIN_FRONT_CAMERA_RESOLUTION",
+          "name": "Resolución de la cámara frontal principal",
+          "value_id": "7207052",
+          "value_name": "8 Mpx"
+        },
+        {
+          "id": "BATTERY_CAPACITY",
+          "name": "Capacidad de la batería",
+          "value_id": "98435",
+          "value_name": "3000 mAh"
+        },
+        {
+          "id": "WITH_FINGERPRINT_READER",
+          "name": "Con lector de huella digital",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "CHARACTERISTICS_LABEL",
+          "name": "Etiqueta de características",
+          "value_id": "10252558",
+          "value_name": "886007-MLU45341663251_032021"
+        },
+        {
+          "id": "SIM_CARD_SLOTS_NUMBER",
+          "name": "Cantidad de ranuras para tarjeta SIM",
+          "value_id": "2087812",
+          "value_name": "1"
+        },
+        {
+          "id": "COMPATIBLE_SIM_CARD_SIZES",
+          "name": "Tamaños de tarjeta SIM compatibles",
+          "value_id": "80453",
+          "value_name": "Nano-SIM"
+        },
+        {
+          "id": "WITH_ESIM",
+          "name": "Con eSIM",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "OS_PERSONALIZATION_LAST_COMPATIBLE_SHELL",
+          "name": "Última capa compatible de personalización del sistema operativo",
+          "value_id": "11091675",
+          "value_name": "One UI 2.0"
+        },
+        {
+          "id": "WEIGHT",
+          "name": "Peso",
+          "value_id": "6845",
+          "value_name": "155 g"
+        },
+        {
+          "id": "HEIGHT",
+          "name": "Altura",
+          "value_id": "6954305",
+          "value_name": "148.9 mm"
+        },
+        {
+          "id": "WIDTH",
+          "name": "Ancho",
+          "value_id": "6954310",
+          "value_name": "68.1 mm"
+        },
+        {
+          "id": "DEPTH",
+          "name": "Profundidad",
+          "value_id": "4604272",
+          "value_name": "8 mm"
+        },
+        {
+          "id": "DISPLAY_TECHNOLOGY",
+          "name": "Tecnología de la pantalla",
+          "value_id": "80493",
+          "value_name": "Super AMOLED"
+        },
+        {
+          "id": "DISPLAY_PIXELS_PER_INCH",
+          "name": "Píxeles por pulgada de la pantalla",
+          "value_id": "7075863",
+          "value_name": "570 ppi"
+        },
+        {
+          "id": "WITH_TOUCHSCREEN_DISPLAY",
+          "name": "Con pantalla táctil",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_PHYSICAL_QWERTY_KEYBOARD",
+          "name": "Con teclado QWERTY físico",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "WITH_CAMERA",
+          "name": "Con cámara",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "REAR_CAMERAS_NUMBER",
+          "name": "Cantidad de cámaras traseras",
+          "value_id": "7477198",
+          "value_name": "1"
+        },
+        {
+          "id": "REAR_CAMERA_APERTURE",
+          "name": "Apertura del diafragma de la cámara trasera",
+          "value_id": "7444371",
+          "value_name": "f 1.7"
+        },
+        {
+          "id": "FRONT_CAMERAS_NUMBER",
+          "name": "Cantidad de cámaras frontales",
+          "value_id": "7477216",
+          "value_name": "1"
+        },
+        {
+          "id": "FRONT_CAMERA_RECORDING_RESOLUTION",
+          "name": "Resolución de video de la cámara frontal",
+          "value_id": "7222493",
+          "value_name": "2560 px x 1440 px"
+        },
+        {
+          "id": "WITH_FRONT_CAMERA_FLASH",
+          "name": "Con flash en la cámara frontal",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "MOBILE_NETWORK",
+          "name": "Red",
+          "value_id": "367876",
+          "value_name": "4G/LTE"
+        },
+        {
+          "id": "MEMORY_CARD_TYPES",
+          "name": "Tipos de tarjeta de memoria",
+          "value_id": "7199655",
+          "value_name": "MicroSD"
+        },
+        {
+          "id": "MEMORY_CARD_MAX_CAPACITY",
+          "name": "Capacidad máxima de la tarjeta de memoria",
+          "value_id": "6901713",
+          "value_name": "512 GB"
+        },
+        {
+          "id": "PROCESSOR_CORES_NUMBER",
+          "name": "Cantidad de núcleos del procesador",
+          "value_id": "7206961",
+          "value_name": "8"
+        },
+        {
+          "id": "WITH_USB_CONNECTOR",
+          "name": "Con conector USB",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_WIFI",
+          "name": "Con Wi-Fi",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_GPS",
+          "name": "Con GPS",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_BLUETOOTH",
+          "name": "Con Bluetooth",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_MINI_HDMI",
+          "name": "Con mini HDMI",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "WITH_RADIO",
+          "name": "Con radio",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "WITH_TV_TUNER",
+          "name": "Con sintonizador de TV",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "WITH_ACCELEROMETER",
+          "name": "Con acelerómetro",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_PROXIMITY_SENSOR",
+          "name": "Con sensor de proximidad",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_GYROSCOPE",
+          "name": "Con giroscopio",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "IS_WATERPROOF",
+          "name": "Es a prueba de agua",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "BATTERY_TYPE",
+          "name": "Tipo de batería",
+          "value_id": "95013",
+          "value_name": "Ion de litio"
+        },
+        {
+          "id": "WITH_REMOVABLE_BATTERY",
+          "name": "Con batería removible",
+          "value_id": "242084",
+          "value_name": "No"
+        }
+      ],
+      "pictures": [
+        {
+          "id": "722135-MLA31212698704_062019",
+          "url": "https://mla-s2-p.mlstatic.com/722135-MLA31212698704_062019-F.jpg"
+        },
+        {
+          "id": "741784-MLA31211029494_062019",
+          "url": "https://mla-s2-p.mlstatic.com/741784-MLA31211029494_062019-F.jpg"
+        },
+        {
+          "id": "874893-MLA31212765183_062019",
+          "url": "https://mla-s1-p.mlstatic.com/874893-MLA31212765183_062019-F.jpg"
+        },
+        {
+          "id": "924655-MLA31212765182_062019",
+          "url": "https://mla-s2-p.mlstatic.com/924655-MLA31212765182_062019-F.jpg"
+        },
+        {
+          "id": "912217-MLA31212127855_062019",
+          "url": "https://mla-s2-p.mlstatic.com/912217-MLA31212127855_062019-F.jpg"
+        }
+      ],
+      "parent_id": "MLA6408697",
+      "children_ids": []
+    },
+    {
+      "id": "MLA6408699",
+      "status": "active",
+      "domain_id": "MLA-CELLPHONES",
+      "settings": {
+        "listing_strategy": "catalog_required"
+      },
+      "name": "Samsung Galaxy S8 64 GB gris orquídea 4 GB RAM",
+      "main_features": [],
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "206",
+          "value_name": "Samsung"
+        },
+        {
+          "id": "LINE",
+          "name": "Línea",
+          "value_id": "249991",
+          "value_name": "Galaxy S"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": "8030",
+          "value_name": "S8"
+        },
+        {
+          "id": "IS_DUAL_SIM",
+          "name": "Es Dual SIM",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_id": "501442",
+          "value_name": "Gris orquídea"
+        },
+        {
+          "id": "INTERNAL_MEMORY",
+          "name": "Memoria interna",
+          "value_id": "59726",
+          "value_name": "64 GB"
+        },
+        {
+          "id": "RAM",
+          "name": "Memoria RAM",
+          "value_id": "98852",
+          "value_name": "4 GB"
+        },
+        {
+          "id": "MAIN_COLOR",
+          "name": "Color principal",
+          "value_id": "2450294",
+          "value_name": "Gris"
+        },
+        {
+          "id": "OPERATING_SYSTEM_NAME",
+          "name": "Nombre del sistema operativo",
+          "value_id": "7403813",
+          "value_name": "Android"
+        },
+        {
+          "id": "OS_ORIGINAL_VERSION",
+          "name": "Versión original del sistema operativo",
+          "value_id": "7206955",
+          "value_name": "7.0 Nougat"
+        },
+        {
+          "id": "OS_LAST_COMPATIBLE_VERSION",
+          "name": "Última versión compatible del sistema operativo",
+          "value_id": "9123308",
+          "value_name": "10"
+        },
+        {
+          "id": "DISPLAY_SIZE",
+          "name": "Tamaño de la pantalla",
+          "value_id": "6927988",
+          "value_name": "5.8 \""
+        },
+        {
+          "id": "DISPLAY_RESOLUTION",
+          "name": "Resolución de la pantalla",
+          "value_id": "7222492",
+          "value_name": "1440 px x 2960 px"
+        },
+        {
+          "id": "MAIN_REAR_CAMERA_RESOLUTION",
+          "name": "Resolución de la cámara trasera principal",
+          "value_id": "7199628",
+          "value_name": "12 Mpx"
+        },
+        {
+          "id": "REAR_CAMERA_RECORDING_RESOLUTION",
+          "name": "Resolución de video de la cámara trasera",
+          "value_id": "7199630",
+          "value_name": "3840 px x 2160 px"
+        },
+        {
+          "id": "MAIN_FRONT_CAMERA_RESOLUTION",
+          "name": "Resolución de la cámara frontal principal",
+          "value_id": "7207052",
+          "value_name": "8 Mpx"
+        },
+        {
+          "id": "BATTERY_CAPACITY",
+          "name": "Capacidad de la batería",
+          "value_id": "98435",
+          "value_name": "3000 mAh"
+        },
+        {
+          "id": "WITH_FINGERPRINT_READER",
+          "name": "Con lector de huella digital",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "CHARACTERISTICS_LABEL",
+          "name": "Etiqueta de características",
+          "value_id": "10252558",
+          "value_name": "886007-MLU45341663251_032021"
+        },
+        {
+          "id": "SIM_CARD_SLOTS_NUMBER",
+          "name": "Cantidad de ranuras para tarjeta SIM",
+          "value_id": "2087812",
+          "value_name": "1"
+        },
+        {
+          "id": "COMPATIBLE_SIM_CARD_SIZES",
+          "name": "Tamaños de tarjeta SIM compatibles",
+          "value_id": "80453",
+          "value_name": "Nano-SIM"
+        },
+        {
+          "id": "WITH_ESIM",
+          "name": "Con eSIM",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "OS_PERSONALIZATION_LAST_COMPATIBLE_SHELL",
+          "name": "Última capa compatible de personalización del sistema operativo",
+          "value_id": "11091675",
+          "value_name": "One UI 2.0"
+        },
+        {
+          "id": "WEIGHT",
+          "name": "Peso",
+          "value_id": "6845",
+          "value_name": "155 g"
+        },
+        {
+          "id": "HEIGHT",
+          "name": "Altura",
+          "value_id": "6954305",
+          "value_name": "148.9 mm"
+        },
+        {
+          "id": "WIDTH",
+          "name": "Ancho",
+          "value_id": "6954310",
+          "value_name": "68.1 mm"
+        },
+        {
+          "id": "DEPTH",
+          "name": "Profundidad",
+          "value_id": "4604272",
+          "value_name": "8 mm"
+        },
+        {
+          "id": "DISPLAY_TECHNOLOGY",
+          "name": "Tecnología de la pantalla",
+          "value_id": "80493",
+          "value_name": "Super AMOLED"
+        },
+        {
+          "id": "DISPLAY_PIXELS_PER_INCH",
+          "name": "Píxeles por pulgada de la pantalla",
+          "value_id": "7075863",
+          "value_name": "570 ppi"
+        },
+        {
+          "id": "WITH_TOUCHSCREEN_DISPLAY",
+          "name": "Con pantalla táctil",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_PHYSICAL_QWERTY_KEYBOARD",
+          "name": "Con teclado QWERTY físico",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "WITH_CAMERA",
+          "name": "Con cámara",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "REAR_CAMERAS_NUMBER",
+          "name": "Cantidad de cámaras traseras",
+          "value_id": "7477198",
+          "value_name": "1"
+        },
+        {
+          "id": "REAR_CAMERA_APERTURE",
+          "name": "Apertura del diafragma de la cámara trasera",
+          "value_id": "7444371",
+          "value_name": "f 1.7"
+        },
+        {
+          "id": "FRONT_CAMERAS_NUMBER",
+          "name": "Cantidad de cámaras frontales",
+          "value_id": "7477216",
+          "value_name": "1"
+        },
+        {
+          "id": "FRONT_CAMERA_RECORDING_RESOLUTION",
+          "name": "Resolución de video de la cámara frontal",
+          "value_id": "7222493",
+          "value_name": "2560 px x 1440 px"
+        },
+        {
+          "id": "WITH_FRONT_CAMERA_FLASH",
+          "name": "Con flash en la cámara frontal",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "MOBILE_NETWORK",
+          "name": "Red",
+          "value_id": "367876",
+          "value_name": "4G/LTE"
+        },
+        {
+          "id": "MEMORY_CARD_TYPES",
+          "name": "Tipos de tarjeta de memoria",
+          "value_id": "7199655",
+          "value_name": "MicroSD"
+        },
+        {
+          "id": "MEMORY_CARD_MAX_CAPACITY",
+          "name": "Capacidad máxima de la tarjeta de memoria",
+          "value_id": "6901713",
+          "value_name": "512 GB"
+        },
+        {
+          "id": "PROCESSOR_CORES_NUMBER",
+          "name": "Cantidad de núcleos del procesador",
+          "value_id": "7206961",
+          "value_name": "8"
+        },
+        {
+          "id": "WITH_USB_CONNECTOR",
+          "name": "Con conector USB",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_WIFI",
+          "name": "Con Wi-Fi",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_GPS",
+          "name": "Con GPS",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_BLUETOOTH",
+          "name": "Con Bluetooth",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_MINI_HDMI",
+          "name": "Con mini HDMI",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "WITH_RADIO",
+          "name": "Con radio",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "WITH_TV_TUNER",
+          "name": "Con sintonizador de TV",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "WITH_ACCELEROMETER",
+          "name": "Con acelerómetro",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_PROXIMITY_SENSOR",
+          "name": "Con sensor de proximidad",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_GYROSCOPE",
+          "name": "Con giroscopio",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "IS_WATERPROOF",
+          "name": "Es a prueba de agua",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "BATTERY_TYPE",
+          "name": "Tipo de batería",
+          "value_id": "95013",
+          "value_name": "Ion de litio"
+        },
+        {
+          "id": "WITH_REMOVABLE_BATTERY",
+          "name": "Con batería removible",
+          "value_id": "242084",
+          "value_name": "No"
+        }
+      ],
+      "pictures": [
+        {
+          "id": "924348-MLA31003000895_062019",
+          "url": "https://mla-s2-p.mlstatic.com/924348-MLA31003000895_062019-F.jpg"
+        },
+        {
+          "id": "734430-MLA31003080249_062019",
+          "url": "https://mla-s2-p.mlstatic.com/734430-MLA31003080249_062019-F.jpg"
+        },
+        {
+          "id": "692650-MLA31183705217_062019",
+          "url": "https://mla-s1-p.mlstatic.com/692650-MLA31183705217_062019-F.jpg"
+        },
+        {
+          "id": "775000-MLA31183355875_062019",
+          "url": "https://mla-s1-p.mlstatic.com/775000-MLA31183355875_062019-F.jpg"
+        }
+      ],
+      "parent_id": "MLA6408697",
+      "children_ids": []
+    },
+    {
+      "id": "MLA6408700",
+      "status": "active",
+      "domain_id": "MLA-CELLPHONES",
+      "settings": {
+        "listing_strategy": "catalog_required"
+      },
+      "name": "Samsung Galaxy S8 64 GB oro arce 4 GB RAM",
+      "main_features": [],
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "206",
+          "value_name": "Samsung"
+        },
+        {
+          "id": "LINE",
+          "name": "Línea",
+          "value_id": "249991",
+          "value_name": "Galaxy S"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": "8030",
+          "value_name": "S8"
+        },
+        {
+          "id": "IS_DUAL_SIM",
+          "name": "Es Dual SIM",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_id": "501443",
+          "value_name": "Oro arce"
+        },
+        {
+          "id": "INTERNAL_MEMORY",
+          "name": "Memoria interna",
+          "value_id": "59726",
+          "value_name": "64 GB"
+        },
+        {
+          "id": "RAM",
+          "name": "Memoria RAM",
+          "value_id": "98852",
+          "value_name": "4 GB"
+        },
+        {
+          "id": "MAIN_COLOR",
+          "name": "Color principal",
+          "value_id": "2450289",
+          "value_name": "Dorado"
+        },
+        {
+          "id": "OPERATING_SYSTEM_NAME",
+          "name": "Nombre del sistema operativo",
+          "value_id": "7403813",
+          "value_name": "Android"
+        },
+        {
+          "id": "OS_ORIGINAL_VERSION",
+          "name": "Versión original del sistema operativo",
+          "value_id": "7206955",
+          "value_name": "7.0 Nougat"
+        },
+        {
+          "id": "OS_LAST_COMPATIBLE_VERSION",
+          "name": "Última versión compatible del sistema operativo",
+          "value_id": "9123308",
+          "value_name": "10"
+        },
+        {
+          "id": "DISPLAY_SIZE",
+          "name": "Tamaño de la pantalla",
+          "value_id": "6927988",
+          "value_name": "5.8 \""
+        },
+        {
+          "id": "DISPLAY_RESOLUTION",
+          "name": "Resolución de la pantalla",
+          "value_id": "7222492",
+          "value_name": "1440 px x 2960 px"
+        },
+        {
+          "id": "MAIN_REAR_CAMERA_RESOLUTION",
+          "name": "Resolución de la cámara trasera principal",
+          "value_id": "7199628",
+          "value_name": "12 Mpx"
+        },
+        {
+          "id": "REAR_CAMERA_RECORDING_RESOLUTION",
+          "name": "Resolución de video de la cámara trasera",
+          "value_id": "7199630",
+          "value_name": "3840 px x 2160 px"
+        },
+        {
+          "id": "MAIN_FRONT_CAMERA_RESOLUTION",
+          "name": "Resolución de la cámara frontal principal",
+          "value_id": "7207052",
+          "value_name": "8 Mpx"
+        },
+        {
+          "id": "BATTERY_CAPACITY",
+          "name": "Capacidad de la batería",
+          "value_id": "98435",
+          "value_name": "3000 mAh"
+        },
+        {
+          "id": "WITH_FINGERPRINT_READER",
+          "name": "Con lector de huella digital",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "CHARACTERISTICS_LABEL",
+          "name": "Etiqueta de características",
+          "value_id": "10252558",
+          "value_name": "886007-MLU45341663251_032021"
+        },
+        {
+          "id": "SIM_CARD_SLOTS_NUMBER",
+          "name": "Cantidad de ranuras para tarjeta SIM",
+          "value_id": "2087812",
+          "value_name": "1"
+        },
+        {
+          "id": "COMPATIBLE_SIM_CARD_SIZES",
+          "name": "Tamaños de tarjeta SIM compatibles",
+          "value_id": "80453",
+          "value_name": "Nano-SIM"
+        },
+        {
+          "id": "WITH_ESIM",
+          "name": "Con eSIM",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "OS_PERSONALIZATION_LAST_COMPATIBLE_SHELL",
+          "name": "Última capa compatible de personalización del sistema operativo",
+          "value_id": "11091675",
+          "value_name": "One UI 2.0"
+        },
+        {
+          "id": "WEIGHT",
+          "name": "Peso",
+          "value_id": "6845",
+          "value_name": "155 g"
+        },
+        {
+          "id": "HEIGHT",
+          "name": "Altura",
+          "value_id": "6954305",
+          "value_name": "148.9 mm"
+        },
+        {
+          "id": "WIDTH",
+          "name": "Ancho",
+          "value_id": "6954310",
+          "value_name": "68.1 mm"
+        },
+        {
+          "id": "DEPTH",
+          "name": "Profundidad",
+          "value_id": "4604272",
+          "value_name": "8 mm"
+        },
+        {
+          "id": "DISPLAY_TECHNOLOGY",
+          "name": "Tecnología de la pantalla",
+          "value_id": "80493",
+          "value_name": "Super AMOLED"
+        },
+        {
+          "id": "DISPLAY_PIXELS_PER_INCH",
+          "name": "Píxeles por pulgada de la pantalla",
+          "value_id": "7075863",
+          "value_name": "570 ppi"
+        },
+        {
+          "id": "WITH_TOUCHSCREEN_DISPLAY",
+          "name": "Con pantalla táctil",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_PHYSICAL_QWERTY_KEYBOARD",
+          "name": "Con teclado QWERTY físico",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "WITH_CAMERA",
+          "name": "Con cámara",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "REAR_CAMERAS_NUMBER",
+          "name": "Cantidad de cámaras traseras",
+          "value_id": "7477198",
+          "value_name": "1"
+        },
+        {
+          "id": "REAR_CAMERA_APERTURE",
+          "name": "Apertura del diafragma de la cámara trasera",
+          "value_id": "7444371",
+          "value_name": "f 1.7"
+        },
+        {
+          "id": "FRONT_CAMERAS_NUMBER",
+          "name": "Cantidad de cámaras frontales",
+          "value_id": "7477216",
+          "value_name": "1"
+        },
+        {
+          "id": "FRONT_CAMERA_RECORDING_RESOLUTION",
+          "name": "Resolución de video de la cámara frontal",
+          "value_id": "7222493",
+          "value_name": "2560 px x 1440 px"
+        },
+        {
+          "id": "WITH_FRONT_CAMERA_FLASH",
+          "name": "Con flash en la cámara frontal",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "MOBILE_NETWORK",
+          "name": "Red",
+          "value_id": "367876",
+          "value_name": "4G/LTE"
+        },
+        {
+          "id": "MEMORY_CARD_TYPES",
+          "name": "Tipos de tarjeta de memoria",
+          "value_id": "7199655",
+          "value_name": "MicroSD"
+        },
+        {
+          "id": "MEMORY_CARD_MAX_CAPACITY",
+          "name": "Capacidad máxima de la tarjeta de memoria",
+          "value_id": "6901713",
+          "value_name": "512 GB"
+        },
+        {
+          "id": "PROCESSOR_CORES_NUMBER",
+          "name": "Cantidad de núcleos del procesador",
+          "value_id": "7206961",
+          "value_name": "8"
+        },
+        {
+          "id": "WITH_USB_CONNECTOR",
+          "name": "Con conector USB",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_WIFI",
+          "name": "Con Wi-Fi",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_GPS",
+          "name": "Con GPS",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_BLUETOOTH",
+          "name": "Con Bluetooth",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_MINI_HDMI",
+          "name": "Con mini HDMI",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "WITH_RADIO",
+          "name": "Con radio",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "WITH_TV_TUNER",
+          "name": "Con sintonizador de TV",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "WITH_ACCELEROMETER",
+          "name": "Con acelerómetro",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_PROXIMITY_SENSOR",
+          "name": "Con sensor de proximidad",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_GYROSCOPE",
+          "name": "Con giroscopio",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "IS_WATERPROOF",
+          "name": "Es a prueba de agua",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "BATTERY_TYPE",
+          "name": "Tipo de batería",
+          "value_id": "95013",
+          "value_name": "Ion de litio"
+        },
+        {
+          "id": "WITH_REMOVABLE_BATTERY",
+          "name": "Con batería removible",
+          "value_id": "242084",
+          "value_name": "No"
+        }
+      ],
+      "pictures": [
+        {
+          "id": "661005-MLA31003118709_062019",
+          "url": "https://mla-s2-p.mlstatic.com/661005-MLA31003118709_062019-F.jpg"
+        },
+        {
+          "id": "622366-MLA31003080250_062019",
+          "url": "https://mla-s2-p.mlstatic.com/622366-MLA31003080250_062019-F.jpg"
+        },
+        {
+          "id": "807399-MLA31003000897_062019",
+          "url": "https://mla-s2-p.mlstatic.com/807399-MLA31003000897_062019-F.jpg"
+        },
+        {
+          "id": "785278-MLA31003118710_062019",
+          "url": "https://mla-s1-p.mlstatic.com/785278-MLA31003118710_062019-F.jpg"
+        }
+      ],
+      "parent_id": "MLA6408697",
+      "children_ids": []
+    },
+    {
+      "id": "MLA6408701",
+      "status": "active",
+      "domain_id": "MLA-CELLPHONES",
+      "settings": {
+        "listing_strategy": "catalog_required"
+      },
+      "name": "Samsung Galaxy S8 64 GB plata ártico 4 GB RAM",
+      "main_features": [],
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "206",
+          "value_name": "Samsung"
+        },
+        {
+          "id": "LINE",
+          "name": "Línea",
+          "value_id": "249991",
+          "value_name": "Galaxy S"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": "8030",
+          "value_name": "S8"
+        },
+        {
+          "id": "IS_DUAL_SIM",
+          "name": "Es Dual SIM",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_id": "501444",
+          "value_name": "Plata ártico"
+        },
+        {
+          "id": "INTERNAL_MEMORY",
+          "name": "Memoria interna",
+          "value_id": "59726",
+          "value_name": "64 GB"
+        },
+        {
+          "id": "RAM",
+          "name": "Memoria RAM",
+          "value_id": "98852",
+          "value_name": "4 GB"
+        },
+        {
+          "id": "MAIN_COLOR",
+          "name": "Color principal",
+          "value_id": "2450294",
+          "value_name": "Gris"
+        },
+        {
+          "id": "OPERATING_SYSTEM_NAME",
+          "name": "Nombre del sistema operativo",
+          "value_id": "7403813",
+          "value_name": "Android"
+        },
+        {
+          "id": "OS_ORIGINAL_VERSION",
+          "name": "Versión original del sistema operativo",
+          "value_id": "7206955",
+          "value_name": "7.0 Nougat"
+        },
+        {
+          "id": "OS_LAST_COMPATIBLE_VERSION",
+          "name": "Última versión compatible del sistema operativo",
+          "value_id": "9123308",
+          "value_name": "10"
+        },
+        {
+          "id": "DISPLAY_SIZE",
+          "name": "Tamaño de la pantalla",
+          "value_id": "6927988",
+          "value_name": "5.8 \""
+        },
+        {
+          "id": "DISPLAY_RESOLUTION",
+          "name": "Resolución de la pantalla",
+          "value_id": "7222492",
+          "value_name": "1440 px x 2960 px"
+        },
+        {
+          "id": "MAIN_REAR_CAMERA_RESOLUTION",
+          "name": "Resolución de la cámara trasera principal",
+          "value_id": "7199628",
+          "value_name": "12 Mpx"
+        },
+        {
+          "id": "REAR_CAMERA_RECORDING_RESOLUTION",
+          "name": "Resolución de video de la cámara trasera",
+          "value_id": "7199630",
+          "value_name": "3840 px x 2160 px"
+        },
+        {
+          "id": "MAIN_FRONT_CAMERA_RESOLUTION",
+          "name": "Resolución de la cámara frontal principal",
+          "value_id": "7207052",
+          "value_name": "8 Mpx"
+        },
+        {
+          "id": "BATTERY_CAPACITY",
+          "name": "Capacidad de la batería",
+          "value_id": "98435",
+          "value_name": "3000 mAh"
+        },
+        {
+          "id": "WITH_FINGERPRINT_READER",
+          "name": "Con lector de huella digital",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "CHARACTERISTICS_LABEL",
+          "name": "Etiqueta de características",
+          "value_id": "10252558",
+          "value_name": "886007-MLU45341663251_032021"
+        },
+        {
+          "id": "SIM_CARD_SLOTS_NUMBER",
+          "name": "Cantidad de ranuras para tarjeta SIM",
+          "value_id": "2087812",
+          "value_name": "1"
+        },
+        {
+          "id": "COMPATIBLE_SIM_CARD_SIZES",
+          "name": "Tamaños de tarjeta SIM compatibles",
+          "value_id": "80453",
+          "value_name": "Nano-SIM"
+        },
+        {
+          "id": "WITH_ESIM",
+          "name": "Con eSIM",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "OS_PERSONALIZATION_LAST_COMPATIBLE_SHELL",
+          "name": "Última capa compatible de personalización del sistema operativo",
+          "value_id": "11091675",
+          "value_name": "One UI 2.0"
+        },
+        {
+          "id": "WEIGHT",
+          "name": "Peso",
+          "value_id": "6845",
+          "value_name": "155 g"
+        },
+        {
+          "id": "HEIGHT",
+          "name": "Altura",
+          "value_id": "6954305",
+          "value_name": "148.9 mm"
+        },
+        {
+          "id": "WIDTH",
+          "name": "Ancho",
+          "value_id": "6954310",
+          "value_name": "68.1 mm"
+        },
+        {
+          "id": "DEPTH",
+          "name": "Profundidad",
+          "value_id": "4604272",
+          "value_name": "8 mm"
+        },
+        {
+          "id": "DISPLAY_TECHNOLOGY",
+          "name": "Tecnología de la pantalla",
+          "value_id": "80493",
+          "value_name": "Super AMOLED"
+        },
+        {
+          "id": "DISPLAY_PIXELS_PER_INCH",
+          "name": "Píxeles por pulgada de la pantalla",
+          "value_id": "7075863",
+          "value_name": "570 ppi"
+        },
+        {
+          "id": "WITH_TOUCHSCREEN_DISPLAY",
+          "name": "Con pantalla táctil",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_PHYSICAL_QWERTY_KEYBOARD",
+          "name": "Con teclado QWERTY físico",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "WITH_CAMERA",
+          "name": "Con cámara",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "REAR_CAMERAS_NUMBER",
+          "name": "Cantidad de cámaras traseras",
+          "value_id": "7477198",
+          "value_name": "1"
+        },
+        {
+          "id": "REAR_CAMERA_APERTURE",
+          "name": "Apertura del diafragma de la cámara trasera",
+          "value_id": "7444371",
+          "value_name": "f 1.7"
+        },
+        {
+          "id": "FRONT_CAMERAS_NUMBER",
+          "name": "Cantidad de cámaras frontales",
+          "value_id": "7477216",
+          "value_name": "1"
+        },
+        {
+          "id": "FRONT_CAMERA_RECORDING_RESOLUTION",
+          "name": "Resolución de video de la cámara frontal",
+          "value_id": "7222493",
+          "value_name": "2560 px x 1440 px"
+        },
+        {
+          "id": "WITH_FRONT_CAMERA_FLASH",
+          "name": "Con flash en la cámara frontal",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "MOBILE_NETWORK",
+          "name": "Red",
+          "value_id": "367876",
+          "value_name": "4G/LTE"
+        },
+        {
+          "id": "MEMORY_CARD_TYPES",
+          "name": "Tipos de tarjeta de memoria",
+          "value_id": "7199655",
+          "value_name": "MicroSD"
+        },
+        {
+          "id": "MEMORY_CARD_MAX_CAPACITY",
+          "name": "Capacidad máxima de la tarjeta de memoria",
+          "value_id": "6901713",
+          "value_name": "512 GB"
+        },
+        {
+          "id": "PROCESSOR_CORES_NUMBER",
+          "name": "Cantidad de núcleos del procesador",
+          "value_id": "7206961",
+          "value_name": "8"
+        },
+        {
+          "id": "WITH_USB_CONNECTOR",
+          "name": "Con conector USB",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_WIFI",
+          "name": "Con Wi-Fi",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_GPS",
+          "name": "Con GPS",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_BLUETOOTH",
+          "name": "Con Bluetooth",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_MINI_HDMI",
+          "name": "Con mini HDMI",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "WITH_RADIO",
+          "name": "Con radio",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "WITH_TV_TUNER",
+          "name": "Con sintonizador de TV",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "WITH_ACCELEROMETER",
+          "name": "Con acelerómetro",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_PROXIMITY_SENSOR",
+          "name": "Con sensor de proximidad",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_GYROSCOPE",
+          "name": "Con giroscopio",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "IS_WATERPROOF",
+          "name": "Es a prueba de agua",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "BATTERY_TYPE",
+          "name": "Tipo de batería",
+          "value_id": "95013",
+          "value_name": "Ion de litio"
+        },
+        {
+          "id": "WITH_REMOVABLE_BATTERY",
+          "name": "Con batería removible",
+          "value_id": "242084",
+          "value_name": "No"
+        }
+      ],
+      "pictures": [
+        {
+          "id": "988657-MLA31151082746_062019",
+          "url": "https://mla-s2-p.mlstatic.com/988657-MLA31151082746_062019-F.jpg"
+        },
+        {
+          "id": "881744-MLA31151330109_062019",
+          "url": "https://mla-s2-p.mlstatic.com/881744-MLA31151330109_062019-F.jpg"
+        },
+        {
+          "id": "781936-MLA31150698899_062019",
+          "url": "https://mla-s2-p.mlstatic.com/781936-MLA31150698899_062019-F.jpg"
+        },
+        {
+          "id": "688392-MLA31183355813_062019",
+          "url": "https://mla-s2-p.mlstatic.com/688392-MLA31183355813_062019-F.jpg"
+        }
+      ],
+      "parent_id": "MLA6408697",
+      "children_ids": []
+    },
+    {
+      "id": "MLA6408702",
+      "status": "active",
+      "domain_id": "MLA-CELLPHONES",
+      "settings": {
+        "listing_strategy": "catalog_required"
+      },
+      "name": "Samsung Galaxy S8 64 GB azul coral 4 GB RAM",
+      "main_features": [],
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "206",
+          "value_name": "Samsung"
+        },
+        {
+          "id": "LINE",
+          "name": "Línea",
+          "value_id": "249991",
+          "value_name": "Galaxy S"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": "8030",
+          "value_name": "S8"
+        },
+        {
+          "id": "IS_DUAL_SIM",
+          "name": "Es Dual SIM",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_id": "501445",
+          "value_name": "Azul coral"
+        },
+        {
+          "id": "INTERNAL_MEMORY",
+          "name": "Memoria interna",
+          "value_id": "59726",
+          "value_name": "64 GB"
+        },
+        {
+          "id": "RAM",
+          "name": "Memoria RAM",
+          "value_id": "98852",
+          "value_name": "4 GB"
+        },
+        {
+          "id": "MAIN_COLOR",
+          "name": "Color principal",
+          "value_id": "2450293",
+          "value_name": "Azul"
+        },
+        {
+          "id": "OPERATING_SYSTEM_NAME",
+          "name": "Nombre del sistema operativo",
+          "value_id": "7403813",
+          "value_name": "Android"
+        },
+        {
+          "id": "OS_ORIGINAL_VERSION",
+          "name": "Versión original del sistema operativo",
+          "value_id": "7206955",
+          "value_name": "7.0 Nougat"
+        },
+        {
+          "id": "OS_LAST_COMPATIBLE_VERSION",
+          "name": "Última versión compatible del sistema operativo",
+          "value_id": "9123308",
+          "value_name": "10"
+        },
+        {
+          "id": "DISPLAY_SIZE",
+          "name": "Tamaño de la pantalla",
+          "value_id": "6927988",
+          "value_name": "5.8 \""
+        },
+        {
+          "id": "DISPLAY_RESOLUTION",
+          "name": "Resolución de la pantalla",
+          "value_id": "7222492",
+          "value_name": "1440 px x 2960 px"
+        },
+        {
+          "id": "MAIN_REAR_CAMERA_RESOLUTION",
+          "name": "Resolución de la cámara trasera principal",
+          "value_id": "7199628",
+          "value_name": "12 Mpx"
+        },
+        {
+          "id": "REAR_CAMERA_RECORDING_RESOLUTION",
+          "name": "Resolución de video de la cámara trasera",
+          "value_id": "7199630",
+          "value_name": "3840 px x 2160 px"
+        },
+        {
+          "id": "MAIN_FRONT_CAMERA_RESOLUTION",
+          "name": "Resolución de la cámara frontal principal",
+          "value_id": "7207052",
+          "value_name": "8 Mpx"
+        },
+        {
+          "id": "BATTERY_CAPACITY",
+          "name": "Capacidad de la batería",
+          "value_id": "98435",
+          "value_name": "3000 mAh"
+        },
+        {
+          "id": "WITH_FINGERPRINT_READER",
+          "name": "Con lector de huella digital",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "CHARACTERISTICS_LABEL",
+          "name": "Etiqueta de características",
+          "value_id": "10252558",
+          "value_name": "886007-MLU45341663251_032021"
+        },
+        {
+          "id": "SIM_CARD_SLOTS_NUMBER",
+          "name": "Cantidad de ranuras para tarjeta SIM",
+          "value_id": "2087812",
+          "value_name": "1"
+        },
+        {
+          "id": "COMPATIBLE_SIM_CARD_SIZES",
+          "name": "Tamaños de tarjeta SIM compatibles",
+          "value_id": "80453",
+          "value_name": "Nano-SIM"
+        },
+        {
+          "id": "WITH_ESIM",
+          "name": "Con eSIM",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "OS_PERSONALIZATION_LAST_COMPATIBLE_SHELL",
+          "name": "Última capa compatible de personalización del sistema operativo",
+          "value_id": "11091675",
+          "value_name": "One UI 2.0"
+        },
+        {
+          "id": "WEIGHT",
+          "name": "Peso",
+          "value_id": "6845",
+          "value_name": "155 g"
+        },
+        {
+          "id": "HEIGHT",
+          "name": "Altura",
+          "value_id": "6954305",
+          "value_name": "148.9 mm"
+        },
+        {
+          "id": "WIDTH",
+          "name": "Ancho",
+          "value_id": "6954310",
+          "value_name": "68.1 mm"
+        },
+        {
+          "id": "DEPTH",
+          "name": "Profundidad",
+          "value_id": "4604272",
+          "value_name": "8 mm"
+        },
+        {
+          "id": "DISPLAY_TECHNOLOGY",
+          "name": "Tecnología de la pantalla",
+          "value_id": "80493",
+          "value_name": "Super AMOLED"
+        },
+        {
+          "id": "DISPLAY_PIXELS_PER_INCH",
+          "name": "Píxeles por pulgada de la pantalla",
+          "value_id": "7075863",
+          "value_name": "570 ppi"
+        },
+        {
+          "id": "WITH_TOUCHSCREEN_DISPLAY",
+          "name": "Con pantalla táctil",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_PHYSICAL_QWERTY_KEYBOARD",
+          "name": "Con teclado QWERTY físico",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "WITH_CAMERA",
+          "name": "Con cámara",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "REAR_CAMERAS_NUMBER",
+          "name": "Cantidad de cámaras traseras",
+          "value_id": "7477198",
+          "value_name": "1"
+        },
+        {
+          "id": "REAR_CAMERA_APERTURE",
+          "name": "Apertura del diafragma de la cámara trasera",
+          "value_id": "7444371",
+          "value_name": "f 1.7"
+        },
+        {
+          "id": "FRONT_CAMERAS_NUMBER",
+          "name": "Cantidad de cámaras frontales",
+          "value_id": "7477216",
+          "value_name": "1"
+        },
+        {
+          "id": "FRONT_CAMERA_RECORDING_RESOLUTION",
+          "name": "Resolución de video de la cámara frontal",
+          "value_id": "7222493",
+          "value_name": "2560 px x 1440 px"
+        },
+        {
+          "id": "WITH_FRONT_CAMERA_FLASH",
+          "name": "Con flash en la cámara frontal",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "MOBILE_NETWORK",
+          "name": "Red",
+          "value_id": "367876",
+          "value_name": "4G/LTE"
+        },
+        {
+          "id": "MEMORY_CARD_TYPES",
+          "name": "Tipos de tarjeta de memoria",
+          "value_id": "7199655",
+          "value_name": "MicroSD"
+        },
+        {
+          "id": "MEMORY_CARD_MAX_CAPACITY",
+          "name": "Capacidad máxima de la tarjeta de memoria",
+          "value_id": "6901713",
+          "value_name": "512 GB"
+        },
+        {
+          "id": "PROCESSOR_CORES_NUMBER",
+          "name": "Cantidad de núcleos del procesador",
+          "value_id": "7206961",
+          "value_name": "8"
+        },
+        {
+          "id": "WITH_USB_CONNECTOR",
+          "name": "Con conector USB",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_WIFI",
+          "name": "Con Wi-Fi",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_GPS",
+          "name": "Con GPS",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_BLUETOOTH",
+          "name": "Con Bluetooth",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_MINI_HDMI",
+          "name": "Con mini HDMI",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "WITH_RADIO",
+          "name": "Con radio",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "WITH_TV_TUNER",
+          "name": "Con sintonizador de TV",
+          "value_id": "242084",
+          "value_name": "No"
+        },
+        {
+          "id": "WITH_ACCELEROMETER",
+          "name": "Con acelerómetro",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_PROXIMITY_SENSOR",
+          "name": "Con sensor de proximidad",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "WITH_GYROSCOPE",
+          "name": "Con giroscopio",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "IS_WATERPROOF",
+          "name": "Es a prueba de agua",
+          "value_id": "242085",
+          "value_name": "Sí"
+        },
+        {
+          "id": "BATTERY_TYPE",
+          "name": "Tipo de batería",
+          "value_id": "95013",
+          "value_name": "Ion de litio"
+        },
+        {
+          "id": "WITH_REMOVABLE_BATTERY",
+          "name": "Con batería removible",
+          "value_id": "242084",
+          "value_name": "No"
+        }
+      ],
+      "pictures": [
+        {
+          "id": "867231-MLA31003000899_062019",
+          "url": "https://mla-s1-p.mlstatic.com/867231-MLA31003000899_062019-F.jpg"
+        },
+        {
+          "id": "915417-MLA31003091241_062019",
+          "url": "https://mla-s2-p.mlstatic.com/915417-MLA31003091241_062019-F.jpg"
+        },
+        {
+          "id": "651772-MLA31003118712_062019",
+          "url": "https://mla-s2-p.mlstatic.com/651772-MLA31003118712_062019-F.jpg"
+        },
+        {
+          "id": "629911-MLA31003118713_062019",
+          "url": "https://mla-s1-p.mlstatic.com/629911-MLA31003118713_062019-F.jpg"
+        }
+      ],
+      "parent_id": "MLA6408697",
+      "children_ids": []
+    }
+  ]
+}
