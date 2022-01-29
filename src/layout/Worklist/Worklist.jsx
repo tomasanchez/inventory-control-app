@@ -92,7 +92,7 @@ function Worklist() {
       setProducts(result);
       setTimeout(() => setBusy(false), 500);
     });
-  }, [products]);
+  }, []);
 
   const onNavTo = (oEvent) => {
     navigate(`./${oEvent.detail.item.dataset.id}`);
@@ -119,7 +119,7 @@ function Worklist() {
             data-id={product.documentId}
           >
             <FlexBox direction="Column">
-              <Title level="H1">{product.title}</Title>
+              <Title level="H3">{product.title}</Title>
             </FlexBox>
           </StandardListItem>
         ))}
