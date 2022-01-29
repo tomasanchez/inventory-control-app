@@ -1,5 +1,12 @@
 # Products
 
+
+<p align="center">
+    <a href="https://app.netlify.com/sites/ui5-inventory-control/deploys">
+        <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/0585891c-694d-4e1a-a766-534373f95030/deploy-status"/>
+    </a>
+</a>
+
 ## Requirements
 
 
