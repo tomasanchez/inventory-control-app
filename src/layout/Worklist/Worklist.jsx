@@ -10,10 +10,14 @@ import { Helmet } from "react-helmet";
 import Navbar from "../../components/Navbar/Navbar";
 import { productState } from "../../hooks/Products";
 import { List } from "@ui5/webcomponents-react/dist/List";
-import { FlexBox, StandardListItem } from "@ui5/webcomponents-react";
+import { FlexBox } from "@ui5/webcomponents-react/dist/FlexBox";
+import { StandardListItem } from "@ui5/webcomponents-react/dist/StandardListItem";
 import Formatter from "../../utils/formatter";
 import { useNavigate } from "react-router-dom";
+import { Badge } from "@ui5/webcomponents-react/dist/Badge";
+import { Icon } from "@ui5/webcomponents-react/dist/Icon";
 import FireBaseAPI from "../../api/FireBaseAPI";
+import ObjectNumber from "../../components/ObjectPage/ObjectNumber";
 
 const { useState, useEffect } = React;
 
@@ -113,13 +117,30 @@ function Worklist() {
           <StandardListItem
             key={product.documentId}
             image={product.image}
-            description={product.supplier}
+            description={`${product.id}`}
             additionalText={productState(product)}
             additionalTextState={Formatter.stockState(productState(product))}
             data-id={product.documentId}
           >
-            <FlexBox direction="Column">
-              <Title level="H3">{product.title}</Title>
+            <FlexBox direction="Row" wrap="Wrap" display="inline">
+              <Title level="H5" wrappingType="Normal">
+                {product.title}
+              </Title>
+              <FlexBox
+                direction="Row"
+                display="inline"
+                wrap="Wrap"
+                justifyContent="End"
+              >
+                <Badge
+                  icon={<Icon name="lead" />}
+                  colorScheme="7"
+                  tooltip="Pricing"
+                  style={{ marginLeft: "1rem" }}
+                  children={<ObjectNumber number={product.price} />}
+                  title="Price"
+                />
+              </FlexBox>
             </FlexBox>
           </StandardListItem>
         ))}
