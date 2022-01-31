@@ -38,6 +38,7 @@ function Navbar(props) {
       currentUser?.displayName
         .match(/(?<!\p{L}\p{M}*)\p{L}/gu)
         .join("")
+        .substring(0, 2)
         .toUpperCase()
     );
     setAccent(generateRandomColor());
