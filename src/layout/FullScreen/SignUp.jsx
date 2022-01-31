@@ -18,6 +18,8 @@ import { useNavigate } from "react-router-dom";
 import Password from "../../components/Input/Password";
 import FireBaseAPI from "../../api/FireBaseAPI";
 import CopyRight from "../../components/CopyRigth/CopyRight";
+import { updateProfile } from "firebase/auth";
+import FireBaseAppCFG from "../../config/firebaseConfig";
 
 const theme = createTheme();
 
@@ -47,6 +49,9 @@ export default function SignUp() {
     FireBaseAPI.saveUser(
       user,
       (response) => {
+        updateProfile(FireBaseAppCFG.auth.currentUser, {
+          displayName: `${user.name} ${user.lastName}`,
+        });
         navigate("/");
       },
       (error) => {
