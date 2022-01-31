@@ -1,4 +1,4 @@
-import React, { useContext, useRef } from "react";
+import React, { useContext, useRef, useState, useEffect } from "react";
 import { ShellBar } from "@ui5/webcomponents-react/dist/ShellBar";
 import { ShellBarItem } from "@ui5/webcomponents-react/dist/ShellBarItem";
 import { Avatar } from "@ui5/webcomponents-react/dist/Avatar";
@@ -7,6 +7,8 @@ import { Popover } from "@ui5/webcomponents-react/dist/Popover";
 import { FlexBox, Link } from "@ui5/webcomponents-react";
 import FireBaseAPI from "../../api/FireBaseAPI";
 import { useNavigate } from "react-router-dom";
+import { generateRandomColor } from "../Avatar/UserAvatar";
+
 const style = {
   shell: {
     overflow: "hidden",
@@ -23,9 +25,23 @@ function Navbar(props) {
   let navigate = useNavigate();
   const { currentUser } = useContext(AuthContext);
   const profilePopOverRef = useRef(null);
+
+  const [initials, setInitials] = useState("");
+  const [accent, setAccent] = useState(generateRandomColor(true));
+
   const handleProfileClick = (e) => {
     profilePopOverRef.current.showAt(e.detail.targetRef);
   };
+
+  useEffect(() => {
+    setInitials(
+      currentUser?.displayName
+        .match(/(?<!\p{L}\p{M}*)\p{L}/gu)
+        .join("")
+        .toUpperCase()
+    );
+    setAccent(generateRandomColor());
+  }, [currentUser, initials]);
 
   return (
     <>
@@ -43,11 +59,13 @@ function Navbar(props) {
         profile={
           currentUser && (
             <Avatar
+              icon={currentUser.displayName ? null : "employee"}
+              initials={initials}
+              colorScheme={accent}
               children={
-                <img
-                  src="https://sap.github.io/ui5-webcomponents/assets/images/avatars/man_avatar_1.png"
-                  alt="Profile"
-                />
+                currentUser.phoroURL && (
+                  <img src={currentUser.phoroURL} alt="Profile" />
+                )
               }
             />
           )
